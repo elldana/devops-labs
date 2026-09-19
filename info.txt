@@ -1,0 +1,4 @@
+Name : Eldana Toktosartova
+Course: DevOps Essentials
+Week: 1
+Status: Completed
